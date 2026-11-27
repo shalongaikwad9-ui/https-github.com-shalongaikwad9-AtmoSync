@@ -1,0 +1,7 @@
+metric,value
+input_rows,5
+valid_rows_after_cleaning,5
+removed_rows,0
+missing_location,0
+missing_temperature,0
+missing_humidity,0

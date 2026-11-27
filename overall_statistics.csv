@@ -1,0 +1,6 @@
+,temperature,humidity,precipitation,wind_speed,cloud_cover
+count,5.0,5.0,5.0,5.0,5.0
+mean,31.66,23.0,0.0,8.96,2.2
+min,31.3,22.0,0.0,7.1,0.0
+max,32.3,24.0,0.0,10.3,5.0
+std,0.43,0.71,0.0,1.23,2.59
