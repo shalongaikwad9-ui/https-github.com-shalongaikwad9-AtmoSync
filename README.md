@@ -1,2 +1,2 @@
-# https-github.com-shalongaikwad9-AtmoSync
-Smart Weather Intelligence and Prediction System
+# https-github.com-shalongaikwad9-ui-AtmoSync_Project
+Weather Analysis & Prediction System
