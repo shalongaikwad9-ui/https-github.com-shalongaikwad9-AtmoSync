@@ -1,0 +1,11 @@
+location_1,location_2,temperature_difference,humidity_difference
+Hadapsar,Hinjawadi,0.9,0.0
+Hadapsar,Kothrud,1.0,1.0
+Hadapsar,Pimpri-Chinchwad,0.9,0.0
+Hadapsar,Pune,0.4,1.0
+Hinjawadi,Kothrud,0.1,1.0
+Hinjawadi,Pimpri-Chinchwad,0.0,0.0
+Hinjawadi,Pune,0.5,1.0
+Kothrud,Pimpri-Chinchwad,0.1,1.0
+Kothrud,Pune,0.6,2.0
+Pimpri-Chinchwad,Pune,0.5,1.0

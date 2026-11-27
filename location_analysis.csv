@@ -1,0 +1,6 @@
+location,avg_temperature,min_temperature,max_temperature,avg_humidity,min_humidity,max_humidity,records,avg_precipitation,avg_wind_speed,avg_cloud_cover
+Hadapsar,32.3,32.3,32.3,23.0,23,23,1,0.0,7.1,1.0
+Hinjawadi,31.4,31.4,31.4,23.0,23,23,1,0.0,8.8,5.0
+Kothrud,31.3,31.3,31.3,24.0,24,24,1,0.0,10.3,0.0
+Pimpri-Chinchwad,31.4,31.4,31.4,23.0,23,23,1,0.0,8.8,5.0
+Pune,31.9,31.9,31.9,22.0,22,22,1,0.0,9.8,0.0
